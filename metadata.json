@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Production Order \u0026 Progress Tracking System",
+  "description": "Hệ thống Quản lý Lệnh Sản xuất, Theo dõi Tiến độ và Hao hụt Nguyên vật liệu (BOM) theo thời gian thực cho Wanek Furniture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
